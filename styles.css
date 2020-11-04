@@ -133,3 +133,10 @@ hr {
   border-bottom: 1px solid var(--secondary);
   padding: 0.8rem;
 }
+
+@media (min-width: 768px) {
+  #main {
+    max-width: 800px;
+    width: 100vw;
+  }
+}
