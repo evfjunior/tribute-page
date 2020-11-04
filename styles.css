@@ -1,0 +1,39 @@
+:root {
+  --black: #212121;
+  --teal: #1de9b6;
+  --pink: #F50057;
+  --white: #fafafa;
+
+  --primary: var(--teal);
+  --secondary: var(--pink);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-color: var(--black);
+  color: var(--white);
+  font: 400 1.6rem "Kalam", sans-serif;
+}
+
+h1,
+h2 {
+  font-family: "Aclonica", cursive;
+  text-transform: uppercase;
+}
+
+.primary {
+  color: var(--primary);
+}
+
+.secondary {
+  color: var(--secondary);
+}
