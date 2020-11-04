@@ -94,6 +94,7 @@ hr {
 
 #tribute-info {
   font-size: 1.6rem;
+  letter-spacing: 0.1rem;
 }
 
 #img-div {
@@ -101,6 +102,8 @@ hr {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+
+  width: 100%;
 }
 
 #image {
@@ -114,7 +117,8 @@ hr {
 #img-caption {
   font-size: 1.2rem;
   line-height: 1.2rem;
-  margin-bottom: 20px;
+  margin-bottom: 24px;
+  text-align: center;
 }
 
 #tribute-link {
