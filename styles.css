@@ -46,6 +46,14 @@ h2 {
   letter-spacing: .2rem;
 }
 
+#tribute-info {
+  font-size: 1.6rem;
+}
+
+#img-caption {
+  font-size: 12px;
+}
+
 .primary {
   color: var(--primary);
 }
