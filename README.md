@@ -41,4 +41,4 @@ Once you're done, submit the URL to your working project with all its tests pass
 
 This project was made following the mobile-first approach, featuring the Material Design Colors pallette, with accessibility in mind.
 
-Check out the full project at codepen.io/evfjunior/project/full/ZKeeNN.
+Check out the full project at https://codepen.io/evfjunior/project/full/ZKeeNN.
