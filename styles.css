@@ -24,10 +24,55 @@ body {
   font: 400 1.6rem "Kalam", sans-serif;
 }
 
+a {
+  color: var(--secondary);
+}
+
 h1,
 h2 {
   font-family: "Aclonica", cursive;
   text-transform: uppercase;
+}
+
+h2 {
+  font-size: 1.8rem;
+}
+
+article {
+  text-align: justify;
+}
+
+article h2 {
+  margin: 12px 0;
+}
+
+article p {
+  line-height: 2rem;
+  margin: 12px auto;
+}
+
+footer p {
+  font-size: 1.2rem;
+  letter-spacing: 0.1rem;
+
+  padding: 24px 0;
+}
+
+footer p a {
+  text-decoration: none;
+}
+
+header {
+  padding: 24px 0;
+  text-align: center;
+}
+
+header span {
+  color: var(--secondary);
+}
+
+hr {
+  margin-top: 28px;
 }
 
 #main {
@@ -61,10 +106,15 @@ h2 {
 #image {
   height: auto;
   width: 100%;
+
+  border-radius: 12px;
+  margin: 20px auto;
 }
 
 #img-caption {
-  font-size: 12px;
+  font-size: 1.2rem;
+  line-height: 1.2rem;
+  margin-bottom: 20px;
 }
 
 #tribute-link {
@@ -77,4 +127,9 @@ h2 {
 
 .secondary {
   color: var(--secondary);
+}
+
+.bottom-line {
+  border-bottom: 1px solid var(--secondary);
+  padding: 0.8rem;
 }
