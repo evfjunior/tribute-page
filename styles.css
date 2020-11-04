@@ -1,7 +1,7 @@
 :root {
   --black: #212121;
   --teal: #1de9b6;
-  --pink: #F50057;
+  --pink: #f50057;
   --white: #fafafa;
 
   --primary: var(--teal);
@@ -43,7 +43,7 @@ h2 {
 
 #title {
   color: var(--primary);
-  letter-spacing: .2rem;
+  letter-spacing: 0.2rem;
 }
 
 #tribute-info {
@@ -52,6 +52,10 @@ h2 {
 
 #img-caption {
   font-size: 12px;
+}
+
+#tribute-link {
+  color: var(--secondary);
 }
 
 .primary {
