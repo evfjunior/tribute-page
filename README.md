@@ -30,3 +30,15 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
 You can build your project by forking this [CodePen pen](https://codepen.io/freeCodeCamp/pen/MJjpwO). Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js.
 
 Once you're done, submit the URL to your working project with all its tests passing.
+
+## Page Preview
+
+![header](https://raw.githubusercontent.com/evfjunior/tribute-page/develop/images/header.png)
+
+![main](https://raw.githubusercontent.com/evfjunior/tribute-page/develop/images/main.png)
+
+## Conclusion
+
+This project was made following the mobile-first approach, featuring the Material Design Colors pallette, with accessibility in mind.
+
+Check out the full project at codepen.io/evfjunior/project/full/ZKeeNN.
