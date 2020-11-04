@@ -41,6 +41,11 @@ h2 {
   padding: 16px;
 }
 
+#title {
+  color: var(--primary);
+  letter-spacing: .2rem;
+}
+
 .primary {
   color: var(--primary);
 }
